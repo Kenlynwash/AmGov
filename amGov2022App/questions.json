@@ -1579,5 +1579,40 @@
 			"Joe Biden"
 		],
 		"correct": 3
-	}
-]
+	},
+	{
+		"question": "Which of these is the correct function of the legistive branch?"
+		"answers":[
+			"To make laws"
+			"To enforce laws"
+			'To define laws"
+			"To interpert laws"
+		
+		"correct": 1
+		
+		
+	},	
+	{	"question": "In order to win Presidency, the candidate must receive the most individual votes."
+	 	"answer": [
+	 		"True"
+	 		"False"
+	 	"correct": 2
+	 
+	},	"Question": "which state has the largest delegation in the United States House of Representatives."
+	{	"answer": [
+			"Missouri"
+			"Florida"
+			"Texas"
+			"Michigan"
+		"correcrt": 3
+	
+	},	"question": "Which better explains why it's possible for groups to assemble and discuss divisive ideas in America"
+	{ 		"answer" : [
+				"State laws allow their actions"
+				"Executive orders proctect their actions"
+				"Municipal ordinances permit their actions"
+				"Constitutional rights protect their actions"
+			"answer": 4
+		
+		
+	
